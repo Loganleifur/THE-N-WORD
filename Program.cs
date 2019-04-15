@@ -78,7 +78,31 @@ namespace Sans_dating_sim
                 }
                 else if (input == "2")
                 {
-                    Console.WriteLine("Sans: 'OwO kiddo-senpai is that a large bulge i can see' ");
+                    Console.WriteLine("Sans: 'Okay, well, just incase, i got an idea of how we can turn that frown upside down' ");
+                    Console.ReadKey();
+                    Console.WriteLine("Sans: 'Let's make one thing perfectly clear' ");
+                    Console.ReadKey();
+                    Console.WriteLine("Sans: 'I'm gonna say some words up here' ");
+                    Console.ReadKey();
+                    Console.WriteLine("Sans: 'I haven't had the chance to say before' ");
+                    Console.ReadKey();
+                    Console.WriteLine("You ask sans where he was going with this, but he ignores you");
+                    Console.ReadKey();
+                    Console.WriteLine("Sans: 'I'm gonna say homie'");
+                    Console.ReadKey();
+                    Console.WriteLine("Sans: 'I'm gonna say bro' ");
+                    Console.ReadKey();
+                    Console.WriteLine("You look in wonder at the rapping skeleton, it fills you with determination");
+                    Console.ReadKey();
+                    Console.WriteLine("Sans: 'I'm gonn say MY MAN!' ");
+                    Console.ReadKey();
+                    Console.WriteLine("Sans: 'I'm gonna say fo sho' ");
+                    Console.ReadKey();
+                    COnsole.WriteLine("You start to feel the rhythm");
+                    Console.ReadKey();
+                    Console.WriteLine("Sans: 'I'm gonna say the N-word!");
+                    Console.ReadKey();
+                    Console.WriteLine("You stab Sans repeatedly");
                 }
 
             }
