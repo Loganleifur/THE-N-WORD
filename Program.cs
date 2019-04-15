@@ -11,7 +11,7 @@ namespace Sans_dating_sim
         static void Main(string[] args)
         {
             //THIS IS A SIN, WE ARE SO SORRY
-
+            //I'LL FUCKING DO IT AGAIN
             //Program starts
             Console.WriteLine("*********************************");
             Console.WriteLine("*                               *");
