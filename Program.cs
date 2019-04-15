@@ -25,13 +25,14 @@ namespace Sans_dating_sim
             Console.Write("- START GAME? 'y'");
             Console.WriteLine("");
             Console.Write("- TO EXIT THE GAME, WRITE 'EXIT' ");
+            Console.WriteLine("");
+            Console.WriteLine("");
 
             bool datruth = true;
 
             string input;
             input = Console.ReadLine();
 
-            Console.WriteLine(input.ToLower());
 
                 if (input == "y")
                 {
@@ -54,6 +55,19 @@ namespace Sans_dating_sim
                     Console.WriteLine(" 1 - 'Watch where you're walking nigga' ");
                     Console.WriteLine("");
                     Console.WriteLine(" 2 - 'Oh..y-yeah, i'm fine' ");
+                    Console.WriteLine("");
+                    Console.WriteLine("");
+
+                    input = Console.ReadLine();
+
+                if (input == "1")
+                {
+                    Console.WriteLine("Sans: 'that was uncalled for, i'm just trying to help' ");
+                }
+                else if (input == "2")
+                {
+
+                }
 
             }
                 else if (input == "exit")
