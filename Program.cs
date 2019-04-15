@@ -115,6 +115,17 @@ namespace Sans_dating_sim
                     Console.WriteLine("Sans: 'I'm gonna say the N-word!' ");
                     Console.ReadKey();
                     Console.WriteLine("You stab Sans repeatedly");
+                    Console.ReadKey();
+                    Console.WriteLine(@"  ________    _____      _____  ___________ ____________   _________________________ ");
+                    Console.WriteLine(@" /  _____/   /  _  \    /     \ \_   _____/ \_____  \   \ /   /\_   _____/\______   \");
+                    Console.WriteLine(@"/   \  ___  /  /_\  \  /  \ /  \ |    __)_   /   |   \   Y   /  |    __)_  |       _/");
+                    Console.WriteLine(@"\    \_\  \/    |    \/    Y    \|        \ /    |    \     /   |        \ |    |   \");
+                    Console.WriteLine(@" \______  /\____|__  /\____|__  /_______  / \_______  /\___/   /_______  / |____|_  /");
+                    Console.WriteLine(@"        \/         \/         \/        \/          \/                 \/         \/ ");
+                    Console.ReadKey();
+                    Console.WriteLine("");
+                    Console.WriteLine("Bad ending: You killed a dead person who just wanted to be black");
+                    Console.WriteLine("");
                 }
 
             }
