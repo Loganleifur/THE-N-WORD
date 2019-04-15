@@ -126,7 +126,10 @@ namespace Sans_dating_sim
                     Console.WriteLine("");
                     Console.WriteLine("Bad ending: You killed a dead person who just wanted to be black");
                     Console.WriteLine("");
-                             Console.WriteLine(@"░░░░░░░░░░░░░░░░██████████████████");
+                    
+                    //Sans is not pleased.
+                    
+            Console.WriteLine(@"░░░░░░░░░░░░░░░░██████████████████");
             Console.WriteLine(@"░░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░████");
             Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░██");
             Console.WriteLine(@"░░░░░░░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░██");
