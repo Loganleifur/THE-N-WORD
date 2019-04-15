@@ -112,7 +112,7 @@ namespace Sans_dating_sim
                     Console.ReadKey();
                     COnsole.WriteLine("You start to feel the rhythm");
                     Console.ReadKey();
-                    Console.WriteLine("Sans: 'I'm gonna say the N-word!");
+                    Console.WriteLine("Sans: 'I'm gonna say the N-word!' ");
                     Console.ReadKey();
                     Console.WriteLine("You stab Sans repeatedly");
                 }
