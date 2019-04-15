@@ -78,7 +78,7 @@ namespace Sans_dating_sim
                 }
                 else if (input == "2")
                 {
-
+                    Console.WriteLine("Sans: 'OwO kiddo-senpai is that a large bulge i can see' ");
                 }
 
             }
